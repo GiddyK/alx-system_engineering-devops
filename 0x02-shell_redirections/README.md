@@ -1,1 +1,1 @@
-lets display a file
+Let's display a file
