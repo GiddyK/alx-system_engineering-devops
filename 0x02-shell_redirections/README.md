@@ -1,2 +1,2 @@
 !#/bin/bash
-This is not empty 
+Displaying a file
