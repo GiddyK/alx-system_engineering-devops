@@ -1,1 +1,1 @@
-The biggest fan
+A gif is worth ten thousand words
