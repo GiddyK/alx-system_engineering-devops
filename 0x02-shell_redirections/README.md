@@ -1,2 +1,1 @@
-!#/bin/bash
-Displaying a file
+Hello World
