@@ -1,2 +1,1 @@
-!#/bin/bash
-I am now alx student
+a script that creates an alias.
